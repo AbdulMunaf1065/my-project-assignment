@@ -34,7 +34,7 @@
             color: #fff;
         }
         main {
-            padding: 20px;
+            padding: 56px;
             background-color: #fff;
             margin: 10px;
         }
